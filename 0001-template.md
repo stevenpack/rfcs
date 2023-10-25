@@ -6,6 +6,15 @@ Brief, self-describing title of the RFC.
 
 One paragraph explanation of the feature. Describe the "why" and feature benefit.
 
+## Stakholders
+
+List of known stakeholders, such as "ProdEng" or "Protocol" teams if they will consume this component.
+
+## Interfaces
+
+- How will the code be invoked? What is the boundary of this RFC?
+- Especially relevant for inter-team projects where a component maybe "exposed" to o1js and require parameters
+
 ## Motivation
 
 Reflect the will of the PRD (product requirements document). If the PRD is a linkable artifact, include the link here. If not, summarize the product requirement in your own words. Describe the delta of this change.
